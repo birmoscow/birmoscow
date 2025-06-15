@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/birmoscow/me/blob/main/Bondarenko_cv.png "main")
+![alt text](Bondarenko_cv.png "main")
